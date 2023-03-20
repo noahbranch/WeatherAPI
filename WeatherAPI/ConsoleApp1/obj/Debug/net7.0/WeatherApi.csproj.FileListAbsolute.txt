@@ -1,0 +1,17 @@
+C:\Users\noahb\source\repos\WeatherAPI\ConsoleApp1\obj\Debug\net7.0\WeatherApi.csproj.AssemblyReference.cache
+C:\Users\noahb\source\repos\WeatherAPI\ConsoleApp1\obj\Debug\net7.0\WeatherApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noahb\source\repos\WeatherAPI\ConsoleApp1\obj\Debug\net7.0\WeatherApi.AssemblyInfoInputs.cache
+C:\Users\noahb\source\repos\WeatherAPI\ConsoleApp1\obj\Debug\net7.0\WeatherApi.AssemblyInfo.cs
+C:\Users\noahb\source\repos\WeatherAPI\ConsoleApp1\obj\Debug\net7.0\WeatherApi.csproj.CoreCompileInputs.cache
+C:\Users\noahb\source\repos\WeatherAPI\ConsoleApp1\bin\Debug\net7.0\WeatherApi.exe
+C:\Users\noahb\source\repos\WeatherAPI\ConsoleApp1\bin\Debug\net7.0\WeatherApi.deps.json
+C:\Users\noahb\source\repos\WeatherAPI\ConsoleApp1\bin\Debug\net7.0\WeatherApi.runtimeconfig.json
+C:\Users\noahb\source\repos\WeatherAPI\ConsoleApp1\bin\Debug\net7.0\WeatherApi.dll
+C:\Users\noahb\source\repos\WeatherAPI\ConsoleApp1\bin\Debug\net7.0\WeatherApi.pdb
+C:\Users\noahb\source\repos\WeatherAPI\ConsoleApp1\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\noahb\source\repos\WeatherAPI\ConsoleApp1\obj\Debug\net7.0\WeatherApi.csproj.CopyComplete
+C:\Users\noahb\source\repos\WeatherAPI\ConsoleApp1\obj\Debug\net7.0\WeatherApi.dll
+C:\Users\noahb\source\repos\WeatherAPI\ConsoleApp1\obj\Debug\net7.0\refint\WeatherApi.dll
+C:\Users\noahb\source\repos\WeatherAPI\ConsoleApp1\obj\Debug\net7.0\WeatherApi.pdb
+C:\Users\noahb\source\repos\WeatherAPI\ConsoleApp1\obj\Debug\net7.0\WeatherApi.genruntimeconfig.cache
+C:\Users\noahb\source\repos\WeatherAPI\ConsoleApp1\obj\Debug\net7.0\ref\WeatherApi.dll

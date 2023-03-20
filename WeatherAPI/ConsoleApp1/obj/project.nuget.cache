@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G8FSetdndmPQQf9iVY9MJCo8/ChY9Jh60UPkGhL6AhvEALEVGJLN8nJHsvG8j1oKzGRw55XxV6Td0/ni3qVKJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\noahb\\source\\repos\\WeatherAPI\\ConsoleApp1\\WeatherApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\noahb\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
